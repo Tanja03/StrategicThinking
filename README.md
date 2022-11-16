@@ -1,0 +1,2 @@
+# StrategicThinking
+Strategic Thinking test
